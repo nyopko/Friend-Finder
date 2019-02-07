@@ -1,0 +1,23 @@
+#home-button{
+ margin-top: 2%;
+}
+
+.jumbotron{
+   color: white;
+   background-color: black;
+}
+
+hr {
+    color: white;
+    background-color: white;
+}
+
+.input-field{
+    padding: 10px;
+}
+
+#title-text{
+    height: 100vh;
+    width: 100%;
+    margin: -10px;
+}
